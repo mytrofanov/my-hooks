@@ -26,7 +26,7 @@ function App() {
             </Col>
             <Col span={5}>
                 <Typography.Text type="secondary">{state}</Typography.Text>
-            </Col>{' '}
+            </Col>
         </Row>
     );
 }

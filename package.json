@@ -11,6 +11,7 @@
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "antd": "^5.0.0",
+    "antd-notifications-messages": "^2.0.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-prettier": "^8.5.0",
@@ -18,6 +19,8 @@
     "prettier": "^2.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-intl": "^6.2.1",
+    "react-router-dom": "^6.4.3",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.3",
     "web-vitals": "^2.1.4"
